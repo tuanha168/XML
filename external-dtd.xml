@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Mobile SYSTEM "Mobile.dtd">
+<Mobile Id1="haha1" Id2="haha" Id3="Camera">
+    <Company></Company>
+    <Model></Model>
+    <Price></Price>
+    <Accessories>&CH;, &SH;</Accessories>
+</Mobile>

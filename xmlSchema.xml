@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Mail xmlns="http://abc.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://abc.com message.xsd">
+    <to>asd</to>
+    <from>123</from>
+    <header>1</header>
+    <body>2001-11-11T12:22:22</body>
+    <logo>101010101010010111011011</logo>
+</Mail>

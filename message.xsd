@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://abc.com" xmlns="http://abc.com" elementFormDefault="qualified">
+    <xsd:element name="Mail">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="to" type="xsd:string"></xsd:element>
+                <xsd:element name="from" type="xsd:int"></xsd:element>
+                <xsd:element name="header" type="xsd:boolean"></xsd:element>
+                <xsd:element name="body" type="xsd:dateTime"></xsd:element>
+                <xsd:element name="logo" type="xsd:hexBinary"></xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
