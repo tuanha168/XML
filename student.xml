@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student xmlns="http://abc.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://abc.com student.xsd">
+    <name>Tuan</name>
+    <hihi>asd</hihi>
+    <haha>asd</haha>
+</student>
